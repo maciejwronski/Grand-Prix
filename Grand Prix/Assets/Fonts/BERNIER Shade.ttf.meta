@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7764cc2fcb02d184ebe9e125705f0c82
+timeCreated: 1535103554
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BERNIER? SHADE
+  fontNames:
+  - BERNIER? SHADE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b2b9762a83ee97469d386a10db87973
+timeCreated: 1535634789
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - oilgo: {fileID: 1589167554674938, guid: 2dd134866e066df4a85a3d847800195f, type: 2}
+  - oilCarTexture: {fileID: 2800000, guid: c67628d27eeac474b810bb5fcf526a41, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

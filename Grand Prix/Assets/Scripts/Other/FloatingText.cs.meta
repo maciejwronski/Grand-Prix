@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 11e40a0f71b181449b740486cb32c9d1
+timeCreated: 1535618741
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myFont: {fileID: 12800000, guid: 200fdd730ff44d047be00bb6cb808ab9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

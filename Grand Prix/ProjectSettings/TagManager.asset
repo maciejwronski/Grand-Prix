@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RoadCity
+  - RoadDefault
+  - RoadTrees
+  - RoadGenerator
+  - RoadBridge
+  - Oil
+  - GameManager
+  - Enemy
+  - Money
+  - Star
+  - ColorRandomizer
+  - Clock
+  - Highscores
+  - Music
+  - Lights
+  - Flower
+  - Shoot
+  - CanDestroy
+  - Robot
+  - Nitro
+  - BridgeBound
+  - GameCanvas
+  - Light
+  - collider1
+  - collider2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - NoCollide
+  - Bonus
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

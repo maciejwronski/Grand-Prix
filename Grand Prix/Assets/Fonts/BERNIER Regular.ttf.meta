@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3bf895a425c2e60488a4e2809a5aad56
+timeCreated: 1535103554
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BERNIER? REGULAR
+  fontNames:
+  - BERNIER? REGULAR
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
